@@ -136,12 +136,12 @@ pre {
 	animation-iteration-count: 1;
 }
 
-@deaddemon {
+@deaddmon {
 	font-family: "Delight Crush Display - Personal";
 	src: url(../source/font.ttf);
 }
 
-#deaddemon {
+#deaddmon {
     position: absolute;
     left: 50%;
     top: 40%;
